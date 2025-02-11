@@ -41,6 +41,7 @@ To run this project, ensure you have the following installed:
 ## Results
 - The trained model achieves 95.33% accuracy in recognizing static ASL hand gestures.
 - Performance details are documented in `ProyectoFinal.pdf`.
+![Screen Shot 2021-08-09 at 11 12 33](https://user-images.githubusercontent.com/67990891/218847064-22bf0d54-66f3-4c0c-a461-5f0f107eb30d.png)
 
 ## Future Improvements
 - Extend the model to recognize dynamic gestures ('J' and 'Z').
@@ -52,7 +53,3 @@ This project is open-source and available under the MIT License.
 ## Acknowledgments
 - Dataset from Kaggle
 - Inspired by various deep learning approaches in sign language recognition
-
-
-![Screen Shot 2021-08-09 at 11 12 33](https://user-images.githubusercontent.com/67990891/218847064-22bf0d54-66f3-4c0c-a461-5f0f107eb30d.png)
-
